@@ -1,0 +1,15 @@
+**/key.json
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+.terraform.lock.hcl
+*.tmp/
+tmp/
+.ansible/
+.tox/
+.venv/
+roles/vector
+roles/clickhouse
+roles/lighthouse
+requirements-dev.txt
